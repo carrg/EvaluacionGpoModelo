@@ -18,7 +18,7 @@ Poder = HP + 2*Defense + 3 * Attack
       o   Code Coverage 80%
       o   Ejemplo de como usar el Servicio. 
 
-* De desarrolló sobre serverless offline - versión del framework: 2
+De desarrolló sobre serverless offline - versión del framework: 2
 
 Instrucciones para ejecutar el proyecto
 * Ejecutar comando: npm install
