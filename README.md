@@ -17,3 +17,12 @@ Poder = HP + 2*Defense + 3 * Attack
       o   Pruebas Unitarias
       o   Code Coverage 80%
       o   Ejemplo de como usar el Servicio. 
+
+
+Instrucciones para ejecutar el proyecto
+* Ejecutar comando: npm install
+* Ejecutar comando: npm start
+
+Instrucciones para ejecutar pruebas unitarias
+* Ejecutar comando: npx jest
+
