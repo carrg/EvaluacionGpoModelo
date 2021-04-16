@@ -1,4 +1,4 @@
-Evaluación técnica Gpo Modelo
+Evaluación técnica para Gpo Modelo
 
 Historia:
 

@@ -1,0 +1,28 @@
+{
+  "name": "evaluacion-gpo-modelo",
+  "version": "1.0.0",
+  "description": "Evaluación técnica para Gpo Modelo",
+  "main": "i",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "env-cmd -f ./config/env.local serverless offline start --stage local --country mx"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/carrg/EvaluacionGpoModelo.git"
+  },
+  "author": "Carmelo Rodriguez Gutierrez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/carrg/EvaluacionGpoModelo/issues"
+  },
+  "homepage": "https://github.com/carrg/EvaluacionGpoModelo#readme",
+  "devDependencies": {
+    "env-cmd": "^10.1.0",
+    "serverless-offline": "^6.9.0"
+  },
+  "dependencies": {
+    "axios": "^0.21.1",
+    "jest": "^26.6.3"
+  }
+}
